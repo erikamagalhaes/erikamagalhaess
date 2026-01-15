@@ -1,5 +1,3 @@
-# Erika Magalhães
-
 # 👩🏻‍💻 Erika Magalhães
 
 **`Desenvolvedora FullStack`**
